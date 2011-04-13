@@ -1,0 +1,147 @@
+ssion Statement
+
+To create a budgetary tool/instrument that charts financial savings against a bundle of good and services established by the user.
+
+Core Principles
+
+1. Disposal Income is Finite or Fixed (DI)
+2. The Centrality of one's desires is known ( Itm1, Itm2, Itm3, Itm4, etc)
+3. Hierarchy of needs and its composition vary among individuals (Rnk)
+4. Personal sacrifice is a function of interpretation
+5. Satisfaction is governed by ability to achieve one's desire 
+
+Business Drivers
+
+On the consumer side the model is driven by the following benefits:
+1. Convenience (Distance, Availability)
+2. Cost Savings
+3. Health
+4. Efficiency
+
+On the vendor side the model is driven by the following benefits:
+1. Consumer Insight and Business Intelligence
+2. Targeted Campaigns 
+3. Opportunity Loss
+4. Market Segmentation strategy
+
+Consumer Values
+
+Consumers are motivated by a variety of stimuli:
+1. Price
+2. Quality
+3. Brand Appeal
+
+Vendor Values
+
+Vendors are motivated by the following stimuli:
+1. Return on Investment
+2. Market Share / Revenue Growth
+3. Vendor Loyalty
+4. Reputation
+
+
+
+
+
+
+
+
+Data Model
+
+Consumer Values - CV
+Convenience (c)
+Health (h)
+Saving (m)
+Efficiency (e)
+Brand Symbology (s)
+
+Consumer Drivers - CD
+Price (p)
+Quality (q)
+Brand Loyalty (l)
+Brand Reputation (r)
+
+
+	          Consumer Value Index
+
+Consumer Values
+Rank
+Index
+CV 1
+1
+20.00
+CV 2
+2
+15.00
+CV 3
+3
+10.00
+CV 4
+4
+5.00
+
+	          Consumer Driver Index
+	
+Consumer Drivers
+Rank
+Index
+ CD 1
+1
+1.00
+ CD 2
+2
+0.75
+ CD 3
+3
+0.50
+ CD 4
+4
+0.25
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+Background
+
+Circulars are a staple of many households as consumers continue to find ways to balance the budget.  Whether resulting from a need to eliminate the deficit created by limited source of income or the need to create more savings for future use,  the interest in and use of circulars are pervasive, especially in the following industries:
+
+1. Grocery and Supermarket shoppers
+2. Computer and Electronics
+3. Home Improvement
+4. Travel and Hotel Destinations
+
+
+
+Budget Allocation Model
+
+DI – Disposable Income
+Itm – A tangible item desired
+Rnk – Hierarchical ranking for the tangible item
+
+Budget Allocation =  DI >= Σ( (Itm1* Cost )+(Itm2* Cost ) + (Itm3* Cost ) ….)
+
+
+1. What factor most influences your purchases?
+Current Need. As defined by a requirement 
+Current Want. As defined by a desire (nice to have)
+Convenience. As defined by availability
+	Valuation. Based on perceived worth (good value for the money)
+	Undefined. Just felt like it
+
+2. How would define the product?
+Staple
+Once in a life-time
+Good Brand
+Good substitute
+Special Treat / Once in awhile
+Nice to have
